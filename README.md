@@ -4,6 +4,13 @@
 Cascanueces
 ## Creador
 Cesar Enrique Garay Garcia 
+
+|integrantes del equipo|
+|----------------------|
+|Cesar Enrique Garay Garcia|
+|--------------------------|
+|Zahir Rodriguez Mora|
+
 ## Explicacion de funcionamiento
 Mi personaje va a ser un cascanueces navideño el cual tendra su baston en la mano, el cual subira y bajara com ayuda de un cervo, tendra algunas luces led en el sombrero las cuales prenderan segun la cancion navideña que este sonando, estos iran al ritmo de la cancion, tambien incluira una pantalla OLED la cual mostrara mensajes navideños amigables mientras que el servo lo hace dar vuelta de manera lenta.
 ## Materiales a utilizar 
