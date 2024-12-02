@@ -8,7 +8,6 @@ Cesar Enrique Garay Garcia
 |integrantes del equipo|
 |----------------------|
 |Cesar Enrique Garay Garcia|
-|--------------------------|
 |Zahir Rodriguez Mora|
 
 ## Explicacion de funcionamiento
