@@ -15,22 +15,22 @@ Mi personaje va a ser un cascanueces navideño el cual tendra su baston en la ma
 ## Materiales a utilizar 
 |Material      |Imagen                                                                                                                                         |Cantidad|Costo  |
 |--------------|-----------------------------------------------------------------------------------------------------------------------------------------------|--------|-------|
-|ESP32         |<img src="https://github.com/user-attachments/assets/e188873e-a56b-40c3-a138-fc124c85fb00" width="100"/>                                       |1       |120    |
-|HC-SR04       |<img src="https://github.com/user-attachments/assets/2633969b-87c6-49d2-bb9e-2a809461449f" width="100"/>                                        |1       |30.00  |
-|LED RGB       |<img src="https://www.electronicshub.org/wp-content/uploads/2021/05/Light-Emitting-Diode-Basics.jpg" width="100"/>                                       |5       |10.00  |
-|Servo Motor   |<img src="https://github.com/user-attachments/assets/41127814-7c83-44fc-9522-9777bc2c1e92" width="100"/>                                        |2       |80.00  |
-|Buzzer        |<img src="https://th.bing.com/th/id/OIP.zIU_nZXVd2FnBc2SaPXgewHaHa?rs=1&pid=ImgDetMain" width="100"/>                                        |1       |15.00  |
-|Protoboard    |<img src="https://cdn.shopify.com/s/files/1/0131/0792/0996/products/Protoboardde400puntos_2048x2048.jpg?v=1588537859" width="100"/>                                        |1       |50.00  |
-|Cables Jumper |<img src="https://asset.conrad.com/media10/isa/160267/c1/-/en/001970437PI01/image.jpg" width="100"/>                                        |Varios  |20.00  |
+|ESP32         |<img src="https://github.com/user-attachments/assets/e188873e-a56b-40c3-a138-fc124c85fb00" width="100"/>                                       |1       |$120    |
+|HC-SR04       |<img src="https://github.com/user-attachments/assets/2633969b-87c6-49d2-bb9e-2a809461449f" width="100"/>                                        |1       |$30.00  |
+|LED RGB       |<img src="https://www.electronicshub.org/wp-content/uploads/2021/05/Light-Emitting-Diode-Basics.jpg" width="100"/>                                       |5       |$10.00  |
+|Servo Motor   |<img src="https://github.com/user-attachments/assets/41127814-7c83-44fc-9522-9777bc2c1e92" width="100"/>                                        |2       |$80.00  |
+|Buzzer        |<img src="https://th.bing.com/th/id/OIP.zIU_nZXVd2FnBc2SaPXgewHaHa?rs=1&pid=ImgDetMain" width="100"/>                                        |1       |$15.00  |
+|Protoboard    |<img src="https://cdn.shopify.com/s/files/1/0131/0792/0996/products/Protoboardde400puntos_2048x2048.jpg?v=1588537859" width="100"/>                                        |1       |$50.00  |
+|Cables Jumper |<img src="https://asset.conrad.com/media10/isa/160267/c1/-/en/001970437PI01/image.jpg" width="100"/>                                        |Varios  |$20.00  |
 |Batería 9V    |<img src="https://http2.mlstatic.com/duracell-bateria-alcalina-9v-mn1604b1-D_NQ_NP_777311-MLB20532680785_122015-F.jpg" width="100"/>   |1       |10.00  |
-|Tijeras       |<img src="https://th.bing.com/th/id/OIP.Tx-l6ItCKWL9_l_63fsx1AHaHa?w=2500&h=2500&rs=1&pid=ImgDetMain" width="100"/>                                        |1       |30.00  |
-|Recistol      |<img src="https://th.bing.com/th/id/OIP.KF-JuA7AVXdaBMikpf9LcgHaHa?rs=1&pid=ImgDetMain" width="100"/> |1 |20.00  |
-|Cartón        |<img src="https://th.bing.com/th/id/OIP.7yh7oqTPH7djkT4J3kW0wwHaEU?rs=1&pid=ImgDetMain" width="100"/>|Varios |10.00  |
-|Pinturas|<img src="https://i0.wp.com/online.sanfelipeescolar.com.mx/wp-content/uploads/2021/03/18567.jpg?fit=500%2C500&ssl=1" width="100"/>|Varios  |10.00|
-|OLED|<img src="https://dhb3yazwboecu.cloudfront.net/480/products/p/pantalla_lcd_1602_arduino_01_l.jpg" width="100"/>|Varios  |150.00  |
-|Botones|<img src="https://candy-ho.com/wp-content/uploads/2019/11/boton-de-servicio-iluminado-1.jpg" width="100"/>|Varios  |150.00  |
-|popote|<img src="https://arerofast.com/wp-content/uploads/2021/12/Popote-para-Tapioca-Oxo-Bio-1-Kg_3628-01-1.jpg" width="100"/>|Varios  |2.00  |
-|Bolas unicel|<img src="https://www.officedepot.com.mx/medias/73559.gif-1200ftw?context=bWFzdGVyfHJvb3R8NTg1MTN8aW1hZ2UvanBlZ3xoNzcvaGJlLzk0NjEwMjg4MTQ4NzguanBnfDMxZmViZTc4MDNmMmI3YjhmNWMyZTI1Yjg2ODdkYjFiM2Q4NDkxNmVmYmM4ODJmNjQ2OWM2MWUyYjEwYTRkZjA" width="100"/>|Varios  |5.00  |
+|Tijeras       |<img src="https://th.bing.com/th/id/OIP.Tx-l6ItCKWL9_l_63fsx1AHaHa?w=2500&h=2500&rs=1&pid=ImgDetMain" width="100"/>                                        |1       |$30.00  |
+|Recistol      |<img src="https://th.bing.com/th/id/OIP.KF-JuA7AVXdaBMikpf9LcgHaHa?rs=1&pid=ImgDetMain" width="100"/> |1 |$20.00  |
+|Cartón        |<img src="https://th.bing.com/th/id/OIP.7yh7oqTPH7djkT4J3kW0wwHaEU?rs=1&pid=ImgDetMain" width="100"/>|Varios |$10.00  |
+|Pinturas|<img src="https://i0.wp.com/online.sanfelipeescolar.com.mx/wp-content/uploads/2021/03/18567.jpg?fit=500%2C500&ssl=1" width="100"/>|Varios  |$10.00|
+|OLED|<img src="https://dhb3yazwboecu.cloudfront.net/480/products/p/pantalla_lcd_1602_arduino_01_l.jpg" width="100"/>|Varios  |$150.00  |
+|Botones|<img src="https://candy-ho.com/wp-content/uploads/2019/11/boton-de-servicio-iluminado-1.jpg" width="100"/>|Varios  |$150.00  |
+|popote|<img src="https://arerofast.com/wp-content/uploads/2021/12/Popote-para-Tapioca-Oxo-Bio-1-Kg_3628-01-1.jpg" width="100"/>|Varios  |$2.00  |
+|Bolas unicel|<img src="https://www.officedepot.com.mx/medias/73559.gif-1200ftw?context=bWFzdGVyfHJvb3R8NTg1MTN8aW1hZ2UvanBlZ3xoNzcvaGJlLzk0NjEwMjg4MTQ4NzguanBnfDMxZmViZTc4MDNmMmI3YjhmNWMyZTI1Yjg2ODdkYjFiM2Q4NDkxNmVmYmM4ODJmNjQ2OWM2MWUyYjEwYTRkZjA" width="100"/>|Varios  |$5.00  |
 
 
 
