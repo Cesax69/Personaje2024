@@ -27,12 +27,12 @@ Mi personaje va a ser un cascanueces navideño el cual tendra su baston en la ma
 |Recistol      |<img src="https://th.bing.com/th/id/OIP.KF-JuA7AVXdaBMikpf9LcgHaHa?rs=1&pid=ImgDetMain" width="100"/> |1 |$20.00  |
 |Cartón        |<img src="https://th.bing.com/th/id/OIP.7yh7oqTPH7djkT4J3kW0wwHaEU?rs=1&pid=ImgDetMain" width="100"/>|Varios |$10.00  |
 |Pinturas|<img src="https://i0.wp.com/online.sanfelipeescolar.com.mx/wp-content/uploads/2021/03/18567.jpg?fit=500%2C500&ssl=1" width="100"/>|Varios  |$10.00|
-|OLED|<img src="https://dhb3yazwboecu.cloudfront.net/480/products/p/pantalla_lcd_1602_arduino_01_l.jpg" width="100"/>|Varios  |$150.00  |
+|Pantalla OLED|<img src="https://th.bing.com/th/id/R.ceb0f9c85c12dc1e8be5ae3e232c16b2?rik=z2qL774vmm4MiQ&pid=ImgRaw&r=0" width="100"/>|Varios  |$150.00  |
 |Botones|<img src="https://candy-ho.com/wp-content/uploads/2019/11/boton-de-servicio-iluminado-1.jpg" width="100"/>|Varios  |$150.00  |
 |popote|<img src="https://arerofast.com/wp-content/uploads/2021/12/Popote-para-Tapioca-Oxo-Bio-1-Kg_3628-01-1.jpg" width="100"/>|Varios  |$2.00  |
 |Bolas unicel|<img src="https://www.officedepot.com.mx/medias/73559.gif-1200ftw?context=bWFzdGVyfHJvb3R8NTg1MTN8aW1hZ2UvanBlZ3xoNzcvaGJlLzk0NjEwMjg4MTQ4NzguanBnfDMxZmViZTc4MDNmMmI3YjhmNWMyZTI1Yjg2ODdkYjFiM2Q4NDkxNmVmYmM4ODJmNjQ2OWM2MWUyYjEwYTRkZjA" width="100"/>|Varios  |$5.00  |
-|Pistola de silicon|<img src="https://th.bing.com/th/id/OIP.exbrRglevOymj5jJmFZPKAHaHa?rs=1&pid=ImgDetMain" width="100"/>|Varios  |$5.00  |
-
+|Pistola de silicon|<img src="https://th.bing.com/th/id/OIP.exbrRglevOymj5jJmFZPKAHaHa?rs=1&pid=ImgDetMain" width="100"/>|Varios  |$150.00  |
+|silicon|<img src="https://http2.mlstatic.com/D_NQ_NP_941759-MLM40437282716_012020-F.jpg" width="100"/>|Varios  |$30.00  |
 
 
 ## Software a utilizar 
