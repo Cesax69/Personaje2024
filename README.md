@@ -41,10 +41,14 @@ Mi personaje va a ser un cascanueces navideño el cual tendra su baston en la ma
 |---------------|--------------|
 |Arduino IDE    |2.0.3         |
 |Wokwi          |N/A           |
+|Thonny         |4.1.6         |
+|Node-red       |v4.0.5        |
+|Node-js        |v20.15.1      |
 
 ## Dibujo del personaje 
 ![image](https://github.com/user-attachments/assets/ba0a213e-11b5-4d91-998c-48aaffe4321d)
 
+## Comunicacion
 
 ## Enlaces de la simulación de Wokwi Navidad
 https://wokwi.com/projects/410247506847750145
@@ -56,6 +60,28 @@ https://wokwi.com/projects/410247744825285633
 ## Videos del funcionamiento 
 
 (https://drive.google.com/drive/folders/1bB0ah-XkBKzjL5KlCOgBnNVd5imOTrXh?usp=sharing)
+
+## Fotos de elaboracion
+![Imagen de WhatsApp 2024-12-02 a las 19 17 02_c34df781](https://github.com/user-attachments/assets/347515cf-cf54-4e0f-aad4-a9589f1f6e81)
+
+![Imagen de WhatsApp 2024-12-02 a las 19 17 02_01515715](https://github.com/user-attachments/assets/a2fe1779-ca9d-475c-9f52-0b1436feb897)
+
+![Imagen de WhatsApp 2024-12-02 a las 19 17 00_2018690f](https://github.com/user-attachments/assets/ce448d7f-b1c3-48b9-98fb-756776e4fd79)
+
+![Imagen de WhatsApp 2024-12-02 a las 19 17 01_5d099e01](https://github.com/user-attachments/assets/af91f0a4-0500-4c51-819a-c7d845091a79)
+
+![Imagen de WhatsApp 2024-12-02 a las 19 17 02_8e951a0e](https://github.com/user-attachments/assets/f4267078-e7c9-4c27-8973-6ad381403463)
+
+![Imagen de WhatsApp 2024-12-02 a las 19 17 01_f6309e15](https://github.com/user-attachments/assets/3515d768-36e6-4d4d-be6f-1277358e8fbc)
+
+![Imagen de WhatsApp 2024-12-02 a las 19 17 01_1c1c906f](https://github.com/user-attachments/assets/4fd6166a-879c-4ba5-8c66-cef751fed07d)
+
+![Imagen de WhatsApp 2024-12-02 a las 19 17 01_9db91a29](https://github.com/user-attachments/assets/caf84a28-bdcf-49c0-ba71-b5f9252bda02)
+
+![Imagen de WhatsApp 2024-12-02 a las 19 17 01_f821a37c](https://github.com/user-attachments/assets/79927547-9db9-4326-b5c5-ef362c761e32)
+
+
+
 
 ## Imagen de la captura de pantalla de los exámenes Cisco C
 ![image](https://github.com/user-attachments/assets/fa20304b-317d-4ed2-9806-bb29826f481f)
