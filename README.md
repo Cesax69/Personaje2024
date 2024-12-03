@@ -31,7 +31,7 @@ Mi personaje va a ser un cascanueces navideño el cual tendra su baston en la ma
 |Botones|<img src="https://candy-ho.com/wp-content/uploads/2019/11/boton-de-servicio-iluminado-1.jpg" width="100"/>|Varios  |$150.00  |
 |popote|<img src="https://arerofast.com/wp-content/uploads/2021/12/Popote-para-Tapioca-Oxo-Bio-1-Kg_3628-01-1.jpg" width="100"/>|Varios  |$2.00  |
 |Bolas unicel|<img src="https://www.officedepot.com.mx/medias/73559.gif-1200ftw?context=bWFzdGVyfHJvb3R8NTg1MTN8aW1hZ2UvanBlZ3xoNzcvaGJlLzk0NjEwMjg4MTQ4NzguanBnfDMxZmViZTc4MDNmMmI3YjhmNWMyZTI1Yjg2ODdkYjFiM2Q4NDkxNmVmYmM4ODJmNjQ2OWM2MWUyYjEwYTRkZjA" width="100"/>|Varios  |$5.00  |
-|Pistola de silicon|<img src="https://www.officedepot.com.mx/medias/73559.gif-1200ftw?context=bWFzdGVyfHJvb3R8NTg1MTN8aW1hZ2UvanBlZ3xoNzcvaGJlLzk0NjEwMjg4MTQ4NzguanBnfDMxZmViZTc4MDNmMmI3YjhmNWMyZTI1Yjg2ODdkYjFiM2Q4NDkxNmVmYmM4ODJmNjQ2OWM2MWUyYjEwYTRkZjA" width="100"/>|Varios  |$5.00  |
+|Pistola de silicon|<img src="https://th.bing.com/th/id/OIP.exbrRglevOymj5jJmFZPKAHaHa?rs=1&pid=ImgDetMain" width="100"/>|Varios  |$5.00  |
 
 
 
