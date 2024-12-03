@@ -33,6 +33,7 @@ Mi personaje va a ser un cascanueces navideño el cual tendra su baston en la ma
 |Bolas unicel|<img src="https://www.officedepot.com.mx/medias/73559.gif-1200ftw?context=bWFzdGVyfHJvb3R8NTg1MTN8aW1hZ2UvanBlZ3xoNzcvaGJlLzk0NjEwMjg4MTQ4NzguanBnfDMxZmViZTc4MDNmMmI3YjhmNWMyZTI1Yjg2ODdkYjFiM2Q4NDkxNmVmYmM4ODJmNjQ2OWM2MWUyYjEwYTRkZjA" width="100"/>|Varios  |$5.00  |
 |Pistola de silicon|<img src="https://th.bing.com/th/id/OIP.exbrRglevOymj5jJmFZPKAHaHa?rs=1&pid=ImgDetMain" width="100"/>|Varios  |$150.00  |
 |silicon|<img src="https://http2.mlstatic.com/D_NQ_NP_941759-MLM40437282716_012020-F.jpg" width="100"/>|Varios  |$30.00  |
+|Tira de leds|<img src="https://ideocasa.com/uploads/images/md/2022/26/tiras-led-arduino.jpg" width="100"/>|Varios  |$30.00  |
 
 
 ## Software a utilizar 
