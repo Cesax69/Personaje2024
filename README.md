@@ -34,6 +34,7 @@ Mi personaje va a ser un cascanueces navideño el cual tendra su baston en la ma
 |Pistola de silicon|<img src="https://th.bing.com/th/id/OIP.exbrRglevOymj5jJmFZPKAHaHa?rs=1&pid=ImgDetMain" width="100"/>|Varios  |$150.00  |
 |silicon|<img src="https://http2.mlstatic.com/D_NQ_NP_941759-MLM40437282716_012020-F.jpg" width="100"/>|Varios  |$30.00  |
 |Tira de leds|<img src="https://ideocasa.com/uploads/images/md/2022/26/tiras-led-arduino.jpg" width="100"/>|Varios  |$02.00  |
+|Motor a pasos|<img src="https://lh4.googleusercontent.com/JRdKCD8UyudITGGyxt7A5xbCQESTkwvhrgboI00vJFA1VZbytiN_xVmHhFQm46ftscp3q_TdqnUYOoKgrioLFxyaP3ZzzbPHzv5e2SGX2Q7cNpDok72jlK9-DRQA1pRYJoS3UwCn" width="100"/>|Varios  |$50.00  |
 
 
 ## Software a utilizar 
