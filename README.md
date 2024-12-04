@@ -11,7 +11,7 @@ Cesar Enrique Garay Garcia
 |Zahir Rodriguez Mora|
 
 ## Explicacion de funcionamiento
-Mi personaje va a ser un cascanueces navideño el cual tendra su baston en la mano, el cual subira y bajara com ayuda de un cervo, tendra algunas luces led en el sombrero las cuales prenderan segun la cancion navideña que este sonando, estos iran al ritmo de la cancion, tambien incluira una pantalla OLED la cual mostrara mensajes navideños amigables mientras que el servo lo hace dar vuelta de manera lenta.
+Mi personaje va a ser un cascanueces navideño el cual tendra una base de carton, en la cual ira la cabeza del cascanuces, mientras esta da vueltas con un motor a pasas, al mismo tiempo abrira la boca con un servo que ira dentro de la cabeza. Se emitira una cancion navideña con un buzzer que estara en la cabeza, mientras que los ojos se mueven ya que estan hechos con pantallas oled. El movimiento dependera de la distancia capturada por el sensor se distancia, ademas que la base contara con adornos como una tira de leds con patrones navideños
 ## Materiales a utilizar 
 |Material      |Imagen                                                                                                                                         |Cantidad|Costo  |
 |--------------|-----------------------------------------------------------------------------------------------------------------------------------------------|--------|-------|
