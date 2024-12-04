@@ -49,6 +49,10 @@ Mi personaje va a ser un cascanueces navideño el cual tendra su baston en la ma
 ![image](https://github.com/user-attachments/assets/ba0a213e-11b5-4d91-998c-48aaffe4321d)
 
 ## Comunicacion
+La comunicación del usuario con el prototipo se realizará mediante una conexión inalámbrica a través del protocolo Wi-Fi usando Node-Red. El ESP32 actuará como un servidor Wi-Fi conectado mediante un broker a Node-red. Mediante este, el usuario podra controlar los pasos que avanza o retrocede el motor a pasos, tambien podra cambiar el tono de cancion que es emitida por el buzzer, mientras que ne la parte inferior se imprimira tanto la distancia de un objeto o persona y la temperatura del lugar.
+![image](https://github.com/user-attachments/assets/e76594df-d1fd-438b-bd8f-90b5675cabb9)
+![image](https://github.com/user-attachments/assets/ada32519-75a5-4743-99b0-b3a7208d76f1)
+
 
 ## Enlaces de la simulación de Wokwi Navidad
 https://wokwi.com/projects/410247506847750145
