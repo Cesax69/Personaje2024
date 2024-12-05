@@ -67,34 +67,36 @@ https://wokwi.com/projects/410247744825285633
 (https://drive.google.com/drive/folders/1bB0ah-XkBKzjL5KlCOgBnNVd5imOTrXh?usp=sharing)
 
 ## Fotos de elaboracion
-![Imagen de WhatsApp 2024-12-02 a las 19 17 02_c34df781](https://github.com/user-attachments/assets/347515cf-cf54-4e0f-aad4-a9589f1f6e81)
 
-![Imagen de WhatsApp 2024-12-02 a las 19 17 02_01515715](https://github.com/user-attachments/assets/a2fe1779-ca9d-475c-9f52-0b1436feb897)
-
-![Imagen de WhatsApp 2024-12-02 a las 19 17 00_2018690f](https://github.com/user-attachments/assets/ce448d7f-b1c3-48b9-98fb-756776e4fd79)
-
-![Imagen de WhatsApp 2024-12-02 a las 19 17 01_5d099e01](https://github.com/user-attachments/assets/af91f0a4-0500-4c51-819a-c7d845091a79)
-
-![Imagen de WhatsApp 2024-12-02 a las 19 17 02_8e951a0e](https://github.com/user-attachments/assets/f4267078-e7c9-4c27-8973-6ad381403463)
-
-![Imagen de WhatsApp 2024-12-02 a las 19 17 01_f6309e15](https://github.com/user-attachments/assets/3515d768-36e6-4d4d-be6f-1277358e8fbc)
-
-![Imagen de WhatsApp 2024-12-02 a las 19 17 01_1c1c906f](https://github.com/user-attachments/assets/4fd6166a-879c-4ba5-8c66-cef751fed07d)
-
-![Imagen de WhatsApp 2024-12-02 a las 19 17 01_9db91a29](https://github.com/user-attachments/assets/caf84a28-bdcf-49c0-ba71-b5f9252bda02)
-
-![Imagen de WhatsApp 2024-12-02 a las 19 17 01_f821a37c](https://github.com/user-attachments/assets/79927547-9db9-4326-b5c5-ef362c761e32)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/347515cf-cf54-4e0f-aad4-a9589f1f6e81" width="200" height="auto" />
+  <img src="https://github.com/user-attachments/assets/a2fe1779-ca9d-475c-9f52-0b1436feb897" width="200" height="auto" />
+  <img src="https://github.com/user-attachments/assets/ce448d7f-b1c3-48b9-98fb-756776e4fd79" width="200" height="auto" />
+  <img src="https://github.com/user-attachments/assets/af91f0a4-0500-4c51-819a-c7d845091a79" width="200" height="auto" />
+  <img src="https://github.com/user-attachments/assets/f4267078-e7c9-4c27-8973-6ad381403463" width="200" height="auto" />
+  <img src="https://github.com/user-attachments/assets/3515d768-36e6-4d4d-be6f-1277358e8fbc" width="200" height="auto" />
+  <img src="https://github.com/user-attachments/assets/4fd6166a-879c-4ba5-8c66-cef751fed07d" width="200" height="auto" />
+  <img src="https://github.com/user-attachments/assets/caf84a28-bdcf-49c0-ba71-b5f9252bda02" width="200" height="auto" />
+</div>
 
 
 
 
-## Imagen de la captura de pantalla de los exámenes Cisco C
-![image](https://github.com/user-attachments/assets/fa20304b-317d-4ed2-9806-bb29826f481f)
-![image](https://github.com/user-attachments/assets/58b78486-29d6-4554-b370-83ddc6d2031c)
-![image](https://github.com/user-attachments/assets/165ffecf-5a98-42fb-9413-5ef9fd72ebe8)
-![image](https://github.com/user-attachments/assets/e0d38c4d-3a31-442a-9233-171c9b77aa13)
-![image](https://github.com/user-attachments/assets/530715f3-925d-42b7-aec3-16a2abd91e7e)
-![image](https://github.com/user-attachments/assets/84bbe28b-8a0b-4aed-8955-1e56603826cf)
+
+## Imagen de la captura de pantalla de los exámenes curso de Cisco-Java
+![image](https://github.com/user-attachments/assets/fa851253-3d94-4d0c-913c-bb329960ae75)
+![image](https://github.com/user-attachments/assets/c79aff95-e586-44f2-9206-f9b22fc15d94)
+![image](https://github.com/user-attachments/assets/391af3a6-ebb4-4eff-b4c9-e4ad8a785d12)
+![image](https://github.com/user-attachments/assets/c67f7bd8-0cba-42e7-b272-2ce57b67c5c7)
+![image](https://github.com/user-attachments/assets/1f0f0a3f-2b79-4705-ae1b-57f2d689f8c1)
+![image](https://github.com/user-attachments/assets/fa16585c-9360-4c0c-8daa-1dc23e736705)
+![image](https://github.com/user-attachments/assets/c32b2402-3329-4236-b912-9a31e40861f0)
+
+
+
+
+
+
 
 
 
