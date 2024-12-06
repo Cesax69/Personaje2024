@@ -96,10 +96,12 @@ https://wokwi.com/projects/410247744825285633
 
 
 
+# Retroalimentacion
+Además ed que se completo el proyecto a pesar de las complicaciones y errores, algun punto de mejora destacado es el saber colaborar correctamente, no solo de la parte del compañero si no de los dos lados, además de poder tener una mejor comunicacion para saber que es lo que se buesca, debido a que se presentan situaciones en las que una parte tiene una idea, la intenta transmitir y es recibida por la otra parte pero no siempre como realmente se quiere transmitir, dando como resultado objetivos diferentes; una manera de solucionarlo es buscar otras alternativas para comunicarnos colaborativamente.
 
 
-
-
+# TikTok del proyecto
+https://vm.tiktok.com/ZMkdPNdWc/
 
 
 
